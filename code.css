@@ -55,8 +55,10 @@ a:hover {
 }
 
 hr {
-  border-top: 1px dashed slategrey;
-  margin: 20px;
+  border: none; 
+  border-top: 1px dashed slategrey; 
+  width: 100%;
+  margin: 15px 0;
 }
 
 .business-card > a {
