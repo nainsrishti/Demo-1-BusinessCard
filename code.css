@@ -1,13 +1,25 @@
 body {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   background-color: rosybrown;
   font-family: Arial, sans-serif;
 }
 
 p {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   margin: 5px 0;
 }
 
 a {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   text-decoration: none;
   margin: auto 11px;
 }
@@ -17,6 +29,10 @@ a:hover {
 }
 
 .business-card {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   background-color: #f3f3f3;
   width: 300px;
   padding: 20px;
@@ -28,21 +44,37 @@ a:hover {
 }
 
 .profile-image {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   width: 120px;
   padding: 10px 20px;
 }
 
 .full-name {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   font-size: 26px;
   color: rgb(60, 60, 69);
 }
 
 .designation {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   font-size: 18px;
   color: rgb(79, 79, 96);
 }
 
 .company {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   font-size: 16px;
   color: rgb(96, 96, 121)
 
@@ -54,10 +86,18 @@ hr {
 }
 
 .business-card > a {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   color: blue;
 }
 
 .social-media > a {
+  display: flecbox;
+  justify-content: center;
+  align-items: center;
+  height: 50vw;
   color: rgb(169, 69, 69);
   font-size: 14px;
 }
